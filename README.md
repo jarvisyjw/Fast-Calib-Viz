@@ -34,7 +34,7 @@ depth map, colored point clouds, full pipeline intermediates).
 
 ## Demo
 
-▶️ **[Demo video: full online calibration in ~90 s](./pics/demo_usage.mp4)** —
+▶️ **[Demo video: full online calibration in ~90 s](https://youtu.be/VHcaLTlcTU8)** —
 set topics, frame the board with the filter-box wireframe, 3 captures,
 automatic joint solve, live depth-map verification.
 
